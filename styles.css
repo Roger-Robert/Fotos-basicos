@@ -1,0 +1,31 @@
+html {
+    background-image: url(/img/bg-desktop.svg);
+    background-size: cover;
+    background-color: var(--primary-soft);
+    background-color: var(--primary-violet);
+    padding: 50px;
+}
+
+
+.cabecalho {
+    margin-bottom: 30px;
+    color: aliceblue;
+    border-bottom: 1px solid white;
+}
+
+.cabecalho .informacao .redes {
+    display: flex;
+    justify-content: flex-end;
+    color: aliceblue;
+    gap: 60px;
+    list-style: none;
+    padding: 20px;
+}
+
+.card .image {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    
+
+}
